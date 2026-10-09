@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-  <img alt="SideKick" src="assets/logo-light.svg" height="56">
-</picture>
+<img alt="SideKick alpha" src="assets/logo.svg" height="150">
 
 <br><br>
 
@@ -11,15 +8,13 @@
 
 <br>
 
-[![Latest release](https://img.shields.io/github/v/release/AnakUn69/sidekick-releases?style=flat-square&label=latest&color=53fc18&labelColor=111413)](https://github.com/AnakUn69/sidekick-releases/releases/latest)
-[![Status](https://img.shields.io/badge/status-alpha-53fc18?style=flat-square&labelColor=111413)](#alpha)
-[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-53fc18?style=flat-square&labelColor=111413)](#install)
-[![Downloads](https://img.shields.io/github/downloads/AnakUn69/sidekick-releases/total?style=flat-square&color=53fc18&labelColor=111413)](https://github.com/AnakUn69/sidekick-releases/releases)
-[![Auto updates](https://img.shields.io/badge/updates-automatic-53fc18?style=flat-square&labelColor=111413)](#updates)
+[![Latest release](https://img.shields.io/github/v/release/AnakUn69/sidekick-releases?style=for-the-badge&label=latest&color=2f8f0e&labelColor=161a18&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIwLjYgMTMuNGwtNy4yIDcuMmEyIDIgMCAwIDEtMi44IDBMMyAxM1YzaDEwbDcuNiA3LjZhMiAyIDAgMCAxIDAgMi44eiIvPjxjaXJjbGUgY3g9IjcuNSIgY3k9IjcuNSIgcj0iMS4yIi8%2BPC9zdmc%2B&logoColor=white)](https://github.com/AnakUn69/sidekick-releases/releases/latest) [![Status: alpha](https://img.shields.io/badge/status-alpha-b45309?style=for-the-badge&labelColor=161a18&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTkgM2g2TTEwIDN2Nkw0LjUgMTlhMS41IDEuNSAwIDAgMCAxLjMgMi4yaDEyLjRhMS41IDEuNSAwIDAgMCAxLjMtMi4yTDE0IDlWMyIvPjwvc3ZnPg%3D%3D&logoColor=white)](#alpha) [![Platform: Windows 10 and 11](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4?style=for-the-badge&labelColor=161a18&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMyIgeT0iNCIgd2lkdGg9IjE4IiBoZWlnaHQ9IjEyIiByeD0iMiIvPjxwYXRoIGQ9Ik04IDIwaDhNMTIgMTZ2NCIvPjwvc3ZnPg%3D%3D&logoColor=white)](#install)
+
+[![Downloads](https://img.shields.io/github/downloads/AnakUn69/sidekick-releases/total?style=for-the-badge&label=downloads&color=7c3aed&labelColor=161a18&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDN2MTJtMCAwbC01LTVtNSA1bDUtNU01IDIxaDE0Ii8%2BPC9zdmc%2B&logoColor=white)](https://github.com/AnakUn69/sidekick-releases/releases) [![Automatic updates](https://img.shields.io/badge/updates-automatic-0e8f9c?style=for-the-badge&labelColor=161a18&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIxIDEyYTkgOSAwIDEgMS0zLTYuN0wyMSA4TTIxIDN2NWgtNSIvPjwvc3ZnPg%3D%3D&logoColor=white)](#updates)
 
 <br>
 
-[![Download for Windows](https://img.shields.io/badge/Download-SideKick%20for%20Windows-53fc18?style=for-the-badge&labelColor=111413&logo=windows&logoColor=white)](https://github.com/AnakUn69/sidekick-releases/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download-SideKick%20for%20Windows-53fc18?style=for-the-badge&labelColor=161a18&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDN2MTJtMCAwbC01LTVtNSA1bDUtNU01IDIxaDE0Ii8%2BPC9zdmc%2B&logoColor=white)](https://github.com/AnakUn69/sidekick-releases/releases/latest)
 
 <sub>Made by a viewer, for viewers. By [AnakUn](https://kick.com/anakun).</sub>
 
